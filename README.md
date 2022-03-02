@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-This application allows you to take an existing text editor app and add functionality for it to work as a PWA and function offline. This application is deployed through Heroku.
+This application takes an existing text editor app and adds functionality for it to work as a PWA and function offline. This application is deployed through Heroku.
 
 ## Table of Contents
 - [Description](#description)
@@ -21,7 +21,7 @@ This application allows you to take an existing text editor app and add function
 ## Installation
 `git clone` the repo to your local machine. To use this application, run the following command to install the dependencies: 
 
-    npm install
+     npm install
 
 Then run the following command:
 
@@ -36,11 +36,11 @@ Then open Insomnia and type http://localhost:3000/ to run this application on yo
 
 ## Deployed Link
 
-The link to the deployed application is: https://magickw.github.io/WeatherDashboard/
+The link to the deployed application is: https://jate-bfguo.herokuapp.com/.
 
 
 ## Demo
-https://jate-bfguo.herokuapp.com/Below is the demostration of this application. Please click <a href="https://www.youtube.com/watch?v=DWGBrKgvJcY" target="_blank">here</a> for walk-through video.
+https://jate-bfguo.herokuapp.com/Below is the demostration of this application. Please click <a href="https://www.youtube.com/watch?v=5U_DnAUpXfk" target="_blank">here</a> for walk-through video.
 <img src="images/demo.gif" alt="demo" />
 
 
